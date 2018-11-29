@@ -1,0 +1,10 @@
+Package: rlychi
+Title: Compute Molecular Hash Using Lychi
+Version: 0.0.0.9000
+Authors@R: person("Rajarshi", "Guha", email = "rajarshi.guha@gmail.com", role = c("aut", "cre"))
+Description: Computes a molecular hash given a SMILES string, that is a canonical representation of the molecule, using the Lychi method developed at NCATS.
+Depends: R (>= 3.5.0), rJava
+License: BSD
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

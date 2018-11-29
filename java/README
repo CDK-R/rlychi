@@ -1,0 +1,1 @@
+Sources for the Lychi JAR file included with this package can be found at https://github.com/ncats/lychi. They are not included with the package since they require a few large dependency JAR files, which would bloat the package
